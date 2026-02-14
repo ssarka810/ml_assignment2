@@ -113,28 +113,21 @@ The application allows users to test different models on uploaded data and compa
 
 ## 8. Project Structure
 
+```
 assignment2/
 │-- app.py
 │-- requirements.txt
 │-- README.md
 │-- bank_marketing_models.ipynb
 │-- model/
-│ ├── logistic.pkl
-│ ├── decision_tree.pkl
-│ ├── knn.pkl
-│ ├── naive_bayes.pkl
-│ ├── random_forest.pkl
-│ ├── xgboost.pkl
-│ ├── scaler.pkl
-│ ├── columns.pkl
-
+│     ├── logistic.pkl
+│     ├── decision_tree.pkl
+│     ├── knn.pkl
+│     ├── naive_bayes.pkl
+│     ├── random_forest.pkl
+│     ├── xgboost.pkl
+│     ├── scaler.pkl
+│     ├── columns.pkl
+```
 
 ---
-
-## 9. Deployment
-
-The application is deployed on Streamlit Community Cloud.
-
-Live App Link: https://mlassignment2-nzdjzcx5tqendefd7ds6kh.streamlit.app/
-
-GitHub Repository Link: https://github.com/ssarka810/ml_assignment2
