@@ -135,6 +135,6 @@ assignment2/
 
 The application is deployed on Streamlit Community Cloud.
 
-Live App Link: (Add your deployed Streamlit link here)
+Live App Link: https://mlassignment2-nzdjzcx5tqendefd7ds6kh.streamlit.app/
 
-GitHub Repository Link: (Add your GitHub repo link here)
+GitHub Repository Link: https://github.com/ssarka810/ml_assignment2
